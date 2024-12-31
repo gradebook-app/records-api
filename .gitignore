@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+**/__pycache__
+**/*.pyc
+*.pyc
+
+# User-specific files
+.vscode/
+
+# Environment variables
+.env
+.envrc
