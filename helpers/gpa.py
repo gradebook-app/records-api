@@ -1,5 +1,4 @@
 from typing import Dict, List, Tuple
-import numpy as np
 
 from helpers.gpa_points import gpa_ap_points, gpa_honors_points, gpa_standard_points
 from routers.grades.types import Class, CourseWeight
