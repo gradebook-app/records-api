@@ -1,0 +1,5 @@
+fastapi==0.115.6
+fastapi-cli==0.0.7
+pyquery==2.0.1
+motor==3.6.0
+httpx==0.28.1
